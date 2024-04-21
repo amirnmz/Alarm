@@ -4,7 +4,7 @@ const setalarmbtn = document.querySelector('button');
 const content = document.querySelector('.content');
 
 let  allarmtime, allarmstate ='noset';
-const ringtone = new Audio('./file/ringtone.mp3')
+const ringtone = new Audio('./ringtone.mp3')
 
 
 
